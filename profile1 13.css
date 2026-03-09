@@ -1,0 +1,28 @@
+body
+{
+    background-color: aquamarine;
+}
+.box
+{
+    width: 400px;
+    height: 300px;
+    border-color: aquamarine;
+    border: 2px solid;
+    margin-left: 500px;
+    margin-top: 200px;
+    text-align: center;
+    background-color: white;
+}
+.box img
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 50%;
+    border: 2px solid black;
+
+}
+p
+{
+    font-size: 20px;
+}
